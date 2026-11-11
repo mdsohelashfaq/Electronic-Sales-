@@ -9,7 +9,8 @@ The dashboard is designed to help businesses understand
 sales trends, identify high-performing products, 
 and make data-driven decisions.
 
-Key Features & Insights
+Key Features & Insights 
+
   • Interactive Filters: Added slicers for Brand, Sale Date,  
    Region, and Category to enable dynamic data exploration.
    
